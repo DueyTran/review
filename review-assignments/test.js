@@ -32,3 +32,5 @@ function monkeyTrouble(aSmile, bSmile) {
 console.log(monkeyTrouble(false, false));
 console.log(monkeyTrouble(false, true));
 console.log(monkeyTrouble(true, true));
+
+

@@ -35,7 +35,7 @@ console.log(cFruits);
 let unique = fruits.filter((x, y) => fruits.indexOf(x) === y)
 console.log(unique)
 
-// .filter() returns a new  array with the elements that pass a specific test
+// .filter() returns a new  array with the elements that pass a specified test
 
 let nums = [ 1, 2, 4, 6, 8, 10, 12, 13];
 
