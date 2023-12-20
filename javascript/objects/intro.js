@@ -40,7 +40,6 @@ console.log(person.children[1].name) // Charlie
 // they are objects wtih a length property
 // and they have property names that are numbers
 
-
 // let colors = ["red", "white", "blue"];
 let colors = {
     length: 3,
