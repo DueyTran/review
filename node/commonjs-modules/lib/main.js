@@ -1,5 +1,5 @@
-const MyMath = require('./lib/my-math');
-const Rectangle = require('./lib/Rectangle');
+const MyMath = require('./my-math');
+const Rectangle = require('./Rectangle');
 // main.js is my entry point to javaScript files
 // my-math.js is the module I import into my main.js file
 
